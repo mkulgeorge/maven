@@ -3,7 +3,7 @@
 
 	<groupId>com.analyzemydata</groupId>
 	<artifactId>TestReleasePlugin</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>MavenReleasePluginTest</name>
@@ -39,7 +39,7 @@
 	<scm>
 		<developerConnection>scm:git:https://github.com/mkulgeorge/maven.git</developerConnection>
 		<url>https://github.com/mkulgeorge/maven</url>
-		<tag>TestReleasePlugin-0.0.2</tag>
+		<tag>TestReleasePlugin-0.0.1</tag>
 	</scm>
 	<build>
 		<extensions>
